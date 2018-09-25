@@ -1,0 +1,17 @@
+Assassian Electra 1 175 100 100 1000 WEAPON
+Ninja The_Incredible_Hulk 1 100 195 100 1000 ARMOR
+Assassian Iron_Man 1 185 100 100 1000 HELM
+Ninja Super_Woman 1 100 195 100 1000 ARMOR
+Ninja Super_Woman 2 100 195 100 2450 ARMOR
+Ninja null 1 185 100 100 1000 HELM
+Ninja null 1 185 185 100 1000 HELM
+Ninja Bat_Woman 1 100 195 100 1000 ARMOR
+Ninja Bat_Woman 1 100 100 100 1000 ARMOR
+Assassian Sponge_Bob 1 175 100 100 1000 WEAPON
+Assassian Sponge_Bob 3 175 100 75 4800 WEAPON
+Ninja Sofia_The_First 1 100 195 100 1000 ARMOR
+Ninja Sofia_The_First 1 100 100 100 1000 ARMOR
+Ninja Vamparina 5 185 155 57 12200 ARMOR
+Assassian Ballerina 1 100 195 100 1000 ARMOR
+Assassian Mickey_Mouse 1 185 100 100 1000 HELM
+Assassian Mickey_Mouse 1 185 185 100 1000 HELM
